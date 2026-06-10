@@ -533,7 +533,7 @@ BANNER = """
 ██║     ███████╗██║ ╚████║██║  ██║██║██║  ██║
 ╚═╝     ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ 
 [/bold cyan]
-[bold green]   VEHICLE INFO & MULTI-TOOL v2.0[/bold green]
+[bold green]   FENRIR AYUSH MULTI-TOOL v1.0[/bold green]
 [bold white]       Created by: [bold yellow]Fenrir Ayush[/bold yellow] [/bold white]
 """
 
